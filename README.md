@@ -4,11 +4,11 @@
 
 [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) es un juego de exploración de mazmorras roguelike tradicional de código abierto con niveles y enemigos aleatorios, y cientos de objetos para coleccionar y usar. Está basado en el [código fuente de Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), de [Watabou](https://watabou.itch.io/).
 
-Shattered Pixel Dungeon actualmente compila para plataformas Android, iOS y de escritorio. Puedes encontrar las versiones oficiales del juego en:
+Shattered Pixel Dungeon Original actualmente compila para plataformas Android, iOS y de escritorio. Puedes encontrar las versiones oficiales del juego en:
 
 [![Consíguelo en Google Play](https://shatteredpixel.com/assets/images/badges/gplay.png)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 [![Descárgalo en la App Store](https://shatteredpixel.com/assets/images/badges/appstore.png)](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109)
-[![Steam](https://shatteredpixel.com/assets/images/badges/steam.png)](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dun)]
+[![Steam](https://shatteredpixel.com/assets/images/badges/steam.png)(https://store.steampowered.com/app/1769170/Shattered_Pixel_Dun)]
 [![GOG.com](https://shatteredpixel.com/assets/images/badges/gog.png)](https://www.gog.com/game/shattered_pixel_dungeon)
 [![Itch.io](https://shatteredpixel.com/assets/images/badges/itch.png)](https://shattered-pixel.itch.io/shattered-pixel-dungeon)
 [![Lanzamientos en Github](https://shatteredpixel.com/assets/images/badges/github.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
