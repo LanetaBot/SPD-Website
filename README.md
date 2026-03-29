@@ -1,6 +1,6 @@
-#ENGLISH/INGLES
+# **ENGLISH / INGLES**
 
-#Shattered Pixel Dungeon
+# *Shattered Pixel Dungeon*
 
 [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://watabou.itch.io/).
 
@@ -29,9 +29,9 @@ If you'd like to work with the code, you can find the following guides in `/docs
 - [Recommended changes for making your own version.](docs/recommended-changes.md)
 - 
 
-#SPANISH/ESPAÑOL
+# **SPANISH / ESPAÑOL**
 
-#Shattered Pixel Dungeon
+# *Shattered Pixel Dungeon*
 
 [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) es un juego de exploración de mazmorras roguelike tradicional de código abierto con niveles y enemigos aleatorios, y cientos de objetos para coleccionar y usar. Está basado en el [código fuente de Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), de [Watabou](https://watabou.itch.io/).
 
