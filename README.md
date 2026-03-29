@@ -8,7 +8,7 @@ Shattered Pixel Dungeon Original actualmente compila para plataformas Android, i
 
 [![Consíguelo en Google Play](https://shatteredpixel.com/assets/images/badges/gplay.png)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 [![Descárgalo en la App Store](https://shatteredpixel.com/assets/images/badges/appstore.png)](https://apps.apple.com/app/shattered-pixel-dungeon/id1563121109)
-[![Steam](https://shatteredpixel.com/assets/images/badges/steam.png)(https://store.steampowered.com/app/1769170/Shattered_Pixel_Dun)]
+[![Steam](https://shatteredpixel.com/assets/images/badges/steam.png)](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dun)]
 [![GOG.com](https://shatteredpixel.com/assets/images/badges/gog.png)](https://www.gog.com/game/shattered_pixel_dungeon)
 [![Itch.io](https://shatteredpixel.com/assets/images/badges/itch.png)](https://shattered-pixel.itch.io/shattered-pixel-dungeon)
 [![Lanzamientos en Github](https://shatteredpixel.com/assets/images/badges/github.png)](https://github.com/00-Evan/shattered-pixel-dungeon/releases)
@@ -32,4 +32,6 @@ Si deseas trabajar con el código, encontrarás las siguientes guías en `/docs`
 
 # Este proyecto es un Folk
 
-*Ten en cuenta que estoy usnado Inteligencia Artificial para intentar portear el juego a una version Web para que los usuarios puedan jugarlo sin instalarlo. y se esta complicando esto ya tengo que hacer Compilarlo y esto sera tardoso ya que es descompilacion de **"Java to TeaVM** o algo asi*
+*Ten en cuenta que estoy usnado Inteligencia Artificial para intentar portear el juego a una version Web para que los usuarios puedan jugarlo sin instalarlo. y se esta complicando esto ya tengo que hacer Compilarlo y esto sera tardoso ya que es descompilacion de **"Java to TeaVM"** o algo asi*
+
+update. falta poco
